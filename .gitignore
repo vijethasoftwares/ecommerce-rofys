@@ -1,7 +1,5 @@
 node_modules/
-.env
-.env.prod
-.env.dev
+
 dist/
 .firebase/
 package-lock.json
