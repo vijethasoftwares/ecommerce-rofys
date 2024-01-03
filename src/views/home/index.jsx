@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
 
 
 const Home = () => {
-  useDocumentTitle('ROFYS | Home');
+  useDocumentTitle('AANGAN | Home');
   useScrollTop();
 
   const {
@@ -38,7 +38,7 @@ const Home = () => {
               <strong>Lifestyle</strong>
             </h1>
             <p>
-              ROFYS - Right Option For your Style
+              AANGAN - Right Option For your Style
             </p>
             <br />
             <Link to={SHOP} className="button">

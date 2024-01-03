@@ -32,7 +32,7 @@ const Footer = () => {
       <div className="footer-col-3">
         <strong>
           <span>
-           Developed for ROFYS &nbsp;
+           Developed for AANGAN &nbsp;
             <a href="https://rofabs.com">HERE</a>
           </span>
         </strong>
