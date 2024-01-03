@@ -33,12 +33,12 @@ const Home = () => {
         <div className="banner">
           <div className="banner-desc">
             <h1 className="text-thin">
-              <strong>See</strong>
-              &nbsp;everything with&nbsp;
-              <strong>Clarity</strong>
+              <strong>Nature</strong>
+              &nbsp;Inspires our&nbsp;
+              <strong>Lifestyle</strong>
             </h1>
             <p>
-              ROFYS - Right Option For your Style.Upgrade your Lifestyle to the Next level.
+              ROFYS - Right Option For your Style
             </p>
             <br />
             <Link to={SHOP} className="button">
